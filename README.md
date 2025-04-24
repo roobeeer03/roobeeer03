@@ -7,8 +7,6 @@ Soy estudiante de desarrollo de aplicaciones multiplataforma apasionado por la t
 - **Pagina web con HTML, CSS y JavaScript**
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-
 ## 💡 Intereses
 - Inteligencia Artificial
 - Desarrollo Web
