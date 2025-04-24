@@ -6,6 +6,8 @@ Soy estudiante de desarrollo de aplicaciones multiplataforma apasionado por la t
 - **Gestor de tareas en JavaScript**
 - **Pagina web con HTML, CSS y JavaScript**
 
+![Lenguajes](https://img.shields.io/github/languages/top/roobeeer03/Pagina-Web)
+
 
 ## 💡 Intereses
 - Inteligencia Artificial
