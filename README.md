@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Roberto
 
-<!--
-**roobeeer03/roobeeer03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de desarrollo de aplicaciones multiplataforma apasionado por la tecnología y el software libre. 
 
-Here are some ideas to get you started:
+## 🚀 Proyectos destacados
+- **Gestor de tareas en JavaScript**
+- **Pagina web con HTML, CSS y JavaScript**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Intereses
+- Inteligencia Artificial
+- Desarrollo Web
+
+## 📫 Contacto
+Puedes escribirme a: robertochaves2102@gmail.com
